@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35475'
     url: http://www.gutenberg.org/2009/agents/35475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31800#Histoire-de-Quillembois-Soldat
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2010-03-28'
 gutenberg_type: Text
